@@ -1,0 +1,1 @@
+# nock-gzip-test-case
